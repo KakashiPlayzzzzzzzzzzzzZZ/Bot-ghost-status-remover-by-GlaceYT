@@ -6,8 +6,8 @@
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
   GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  DISCORD SERVER : https://discord.gg/QdTN4BFkTv
+  YOUTUBE : https://www.youtube.com/@KakashiPlayz_
  * **********************************************
  *   Code by RTX GAMING
  * **********************************************
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Listening To Kakashi_playz !"];
 
 
 let currentIndex = 0;
